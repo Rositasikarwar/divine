@@ -1,3 +1,3 @@
-# devine
+# divine
 product launch
 link 
